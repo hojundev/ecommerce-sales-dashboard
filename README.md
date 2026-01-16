@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Dashboard (End-to-End Data Pipeline)
 
-
+![Dashboard Preview](dashboard_screenshot.png)
 *> **[Click here to view the Interactive Dashboard on Tableau Public] https://public.tableau.com/views/E-CommerceSalesDashboard_17681539261150/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link** <*
 
 ## 📌 Project Overview
